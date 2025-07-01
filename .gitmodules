@@ -1,3 +1,5 @@
 [submodule "include/BaseMatrixOps"]
 	path = include/BaseMatrixOps
 	url = https://github.com/Maxhirt/BaseMatrixOps.git
+
+# Forcing a new commit by adding a blank line
