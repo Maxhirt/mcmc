@@ -201,7 +201,7 @@ using Mat_t = mcmc::Mat_t;
 } // namespace bmo
 #endif
 
-#include "BaseMatrixOps/include/BaseMatrixOps.hpp"
+#include "BaseMatrixOps.hpp"
 
 namespace mcmc {
 using Cube_t = bmo::Cube_t<fp_t>;
